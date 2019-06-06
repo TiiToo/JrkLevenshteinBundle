@@ -1,5 +1,5 @@
 {
-    "name": "jrk/levenshtein-bundle",
+    "name": "TiiToo/levenshtein-bundle",
     "type": "symfony-bundle",
     "description": "Levenshtein function bundle for symfony2 and doctrine",
     "keywords": ["levenshtein","doctrine","search","soundex"],
